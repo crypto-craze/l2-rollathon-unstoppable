@@ -8,7 +8,7 @@
 - Decentral Classroom - Decentralized learning platform
 
 ### Demo:
-- http://decentral-classroom.us-east-1.elasticbeanstalk.com/
+- https://d26ul8af88kbh4.cloudfront.net/
 
 ### Video Demo:
 - https://youtu.be/mgSOYvKi65U
